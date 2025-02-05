@@ -1,0 +1,40 @@
+Instructions on how to start project
+
+Here are some simple instruc0ons to start and run my project code.
+Application was developed on a Macbook Air 2019
+- Display resolu0on: 2560 x 1600 pixels
+- Screen size 13.3 inches
+- 16:10 aspect ra0o
+Project viewed in Google chrome.
+
+Install Node JS from here:
+https://nodejs.org/en
+
+version of node: 20.9.0
+
+open Visual studio code then open the code file from within visual studio code 
+by clicking the open button and locate the file this should open the whole project file.
+
+To install dependencies:
+Then once the file is open with all the files present con0nue to open a terminal and install 
+all the dependencies by running the command below
+ - npm install
+This should install all of the dependencies for the applica0on to run.
+
+Note: My server file is inside my project file so you only need to do npm install once as this will install 
+the dependencies for the server file as well.
+
+To open a run application:
+
+• open a terminal inside VS Code and run the following command to run the server:
+ -  node server.js
+
+• Open another terminal inside VS Code and run the following command to run the
+application:
+ - npm start
+Upon doing this all you should be able to run the server and project and should appear in localhost:3000
+
+Server Port: 5321
+
+If you are having any issues at all with running the project, please do not hesitate in 
+gettng in contact with me through and email or teams message.
